@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;0,900;1,400&family=Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Rubik:ital@0;1&display=swap');
+h1{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+margin:190px 0 40px 345px;
+max-width:810px;
+}
+.glasses{
+    margin:0 0 60px 345px;
+    max-width: 100%;
+}
+
+.words{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+   max-width: 810px;
+    margin:0 0 24px 345px;
+}
+.block{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    max-width:810px;
+    margin:0 0 48px 345px;
+}
+
+.text{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    margin:0 0 48px 345px;
+    max-width:752px;
+}
+
+.page{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    max-width:810px;
+    margin:0 0 24px 345px;
+}
+
+.section{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    max-width:568px;
+    margin:0 0 24px 345px;
+}
+
+.item{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    max-width:810px;
+    margin:0 0 0 345px;
+}
+
+.box{
+    width: 400px;
+    height: 200px;
+background-color: blue;
+border: 10px dotted black;
+margin: 100px 50px;
+font-size: 25px;
+display: inline-block;
+}
+.box-2{
+    width: 400px;
+    height: 150px;
+background-color: green;
+border: 10px dashed black;
+margin: 100px 50px;
+font-size: 25px;
+display: inline-block;
+
+}  
+.baner{
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+.army{
+margin:0 auto;    
+opacity: 0.8;
+box-shadow: 5px -5px blue;
+}
+
+.hamas{
+    visibility: hidden;
+}
